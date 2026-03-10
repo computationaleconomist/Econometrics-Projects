@@ -18,7 +18,7 @@ Regional economic impact tools (Computable General Equilibrium (CGE) modeling, s
 
 ### Projects
 
-1. Decomposition of U.S. Inflation using Structural and Bayesian VAR (1. Decomposition of U.S. Inflation - SVAR and BVAR)
+1. Decomposition of U.S. Inflation using Structural and Bayesian VAR 
 2. Forecasting U.S. Debt-to-GDP Ratio using ARIMA and VAR Models
 3. Regional Mapping and Forecasting U.S. Industrial Production
 4. Machine Learning Applications in Economic Analysis
